@@ -1,0 +1,2 @@
+#THis is to never git push files that have the squiglly line in them.
+~*.emacs
